@@ -19,8 +19,8 @@ Here are the languages and frameworks I am actively working on to improve my exp
 | Category | Languages / Frameworks | Status |
 | :--- | :--- | :--- |
 | **Core Languages** | C, C++, C#, Java | In Progress |
-| **Web Development** | HTML, CSS | Developing |
-| **Mobile Development** | Flutter (Dart) | Beginner Stage |
+| **Web Development** | HTML, CSS, JS | Developing |
+| **Mobile Development** | Flutter (Dart) | In Progress|
 
 ---
 
